@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student Details From App</string>
+    <string name="text_view_student_details">Student Details</string>
+    <string name="edit_text_full_name">Full Name</string>
+    <string name="activity_main_edit_text_year">Year</string>
+    <string name="activity_main_edit_text_enrollment_number">Enrollment Number</string>
+    <string name="activity_main_edit_text_college_id">College ID</string>
+    <string name="activity_main_edit_text_date_of_birth">Date of Birth</string>
+    <string name="activity_main_button_text_create_preview">Create Preview</string>
+    <string name="activity_preview_text_view_message_preview">Message Preview</string>
+    <string name="activity_preview_button_text_send_message">Send Message</string>
+</resources>
